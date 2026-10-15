@@ -1,1 +1,0 @@
-CMSC 203 Lab 2 - JavaFX GUI
